@@ -1,5 +1,12 @@
 # Measurement Plug-In SDK for Python
 
+<!-- labview-ci:dashboard -->
+## LabVIEW CI
+
+[![LabVIEW CI dashboard](https://img.shields.io/badge/LabVIEW%20CI-dashboard-2ea44f)](https://mipetrov-ni.github.io/measurement-plugin-python/)
+
+LabVIEW CI runs on every pull request. See the [**CI dashboard**](https://mipetrov-ni.github.io/measurement-plugin-python/) for build status, VI Analyzer results, VI diffs, and mass-compile reports.
+
 - [Measurement Plug-In SDK for Python](#measurement-plug-in-sdk-for-python)
   - [Introduction](#introduction)
   - [Dependencies](#dependencies)
