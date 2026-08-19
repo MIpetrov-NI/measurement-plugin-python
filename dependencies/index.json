@@ -1,0 +1,1229 @@
+{
+  "schema": 1,
+  "repo": "MIpetrov-NI/measurement-plugin-python",
+  "sha": "da66989ac894a766cae8b0080aa8498b0f0e2a77",
+  "revisions": [
+    {
+      "sha": "da66989ac894a766cae8b0080aa8498b0f0e2a77",
+      "short": "da66989",
+      "message": "Add LabVIEW CI pipeline",
+      "author": "Milena",
+      "date": "2026-08-19T14:53:38Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "f788c37cbc7d8c08070c73b2fff66fb198733db0",
+      "short": "f788c37",
+      "message": "chore(deps): update actions/cache action to v5.0.3 (#1292)",
+      "author": "renovate[bot]",
+      "date": "2026-02-16T16:12:56Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "77e25445a13e2fdefe4d079f9b66e76e6f4f93ff",
+      "short": "77e2544",
+      "message": "chore(deps): update actions/cache action to v5.0.2 (#1290)",
+      "author": "renovate[bot]",
+      "date": "2026-02-01T23:53:40Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "20cfa1c73ad3e16e3a4e3e6d9605de11efd12440",
+      "short": "20cfa1c",
+      "message": "chore(deps): update dependency protobuf to v6.33.5 [security] (#1289)",
+      "author": "renovate[bot]",
+      "date": "2026-01-30T01:06:53Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "bdfd592158269000a1ffe0da62b2fd954824c6b7",
+      "short": "bdfd592",
+      "message": "chore(deps): lock file maintenance (#1281)",
+      "author": "renovate[bot]",
+      "date": "2026-01-25T16:37:49Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "817396f24f40c500b8061c4a8e2091bc038337c1",
+      "short": "817396f",
+      "message": "chore(deps): update third_party/ni-apis digest to 9039fdf (#1280)",
+      "author": "renovate[bot]",
+      "date": "2026-01-25T16:37:05Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "8b92df74153ef9b2b5052ba36aa6f36f80e4b0de",
+      "short": "8b92df7",
+      "message": "chore(deps): update actions/checkout action to v6.0.2 (#1286)",
+      "author": "renovate[bot]",
+      "date": "2026-01-25T16:36:22Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "2453ba5f45beabebe36b20d34baa879a6a3e87fb",
+      "short": "2453ba5",
+      "message": "chore(deps): update dependency ni-protobuf-types to v1.1.0 (#1288)",
+      "author": "renovate[bot]",
+      "date": "2026-01-25T16:35:51Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "ee6d09fd5f1b70015cb0f7c7f9529e05a82d45bc",
+      "short": "ee6d09f",
+      "message": "chore(deps): update python packages (#1287)",
+      "author": "renovate[bot]",
+      "date": "2026-01-25T14:29:48Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "f0bb625e2f9e90068b2f20082dfb5b59490aedd2",
+      "short": "f0bb625",
+      "message": "chore: update pre-release version to 3.2.0.dev0 for meas packages (#1284)",
+      "author": "Avi Goel",
+      "date": "2026-01-13T20:17:22Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "9c7d40ace3651121396ce7c24f1d5bc0a0062231",
+      "short": "9c7d40a",
+      "message": "Post publish workflow to update main after the 3.1.0 release (#1275)",
+      "author": "Avi Goel",
+      "date": "2026-01-13T20:16:56Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "99a0a7c8d3ba949d828b1d51c27dc26754586cc1",
+      "short": "99a0a7c",
+      "message": "Update ni-apis to only wait 1 day for new APIs (#1285)",
+      "author": "Joel Dixon",
+      "date": "2026-01-13T17:11:29Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "9255b890f6ca39e137a31f4ec54297516c720e2e",
+      "short": "9255b89",
+      "message": "chore(deps): update github actions (major) (#1283)",
+      "author": "renovate[bot]",
+      "date": "2026-01-12T15:59:23Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "234640a99349324f367fc61682e651a1650a66c6",
+      "short": "234640a",
+      "message": "chore(deps): update python packages (#1282)",
+      "author": "renovate[bot]",
+      "date": "2026-01-12T15:58:50Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "8f5b6a33d2b032893c5ba332ec8deda242d5642f",
+      "short": "8f5b6a3",
+      "message": "chore(deps): update python packages (#1279)",
+      "author": "renovate[bot]",
+      "date": "2026-01-03T03:24:31Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "fcbffbc8b0ad9b3d55ede5ab91e4973e4bf9eaa6",
+      "short": "fcbffbc",
+      "message": "chore(deps): update github actions (#1278)",
+      "author": "renovate[bot]",
+      "date": "2026-01-03T03:22:27Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "54dac938305f0a755a8099246cdbc5419e0740e0",
+      "short": "54dac93",
+      "message": "chore(deps): update actions/checkout action to v6 (#1274)",
+      "author": "renovate[bot]",
+      "date": "2025-12-15T17:41:14Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "10759d5ae99ba81d03b4988957a17938b163b58d",
+      "short": "10759d5",
+      "message": "chore(deps): update ni/python-actions action to v0.7.1 (#1273)",
+      "author": "renovate[bot]",
+      "date": "2025-12-15T16:08:34Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "493cef061e24650e9d771b1a701140d53cd92948",
+      "short": "493cef0",
+      "message": "chore(deps): update python packages (#1271)",
+      "author": "renovate[bot]",
+      "date": "2025-12-15T16:07:37Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "00d02ca188ab73ba033721e6a1264bb90ee20f52",
+      "short": "00d02ca",
+      "message": "fix(deps): Rework mypy-protobuf versioning so Renovate won't update the version we use for codegen (#1272)",
+      "author": "Brad Keryan",
+      "date": "2025-12-12T22:02:47Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "8efdaf91949e55dd22f931d4f48b555a9b773e31",
+      "short": "8efdaf9",
+      "message": "chore(deps): update actions/checkout action to v5.0.1 (#1270)",
+      "author": "renovate[bot]",
+      "date": "2025-12-08T16:28:00Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "140fc1d4c9c98e7f4de7b7c6dce4799b911bdada",
+      "short": "140fc1d",
+      "message": "chore(deps): update python packages (#1268)",
+      "author": "renovate[bot]",
+      "date": "2025-12-03T03:27:34Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "3476ef7fb1b10e351ec6e584774ac79db479e3d9",
+      "short": "3476ef7",
+      "message": "chore(deps): update dependency pytest to v9 (#1269)",
+      "author": "renovate[bot]",
+      "date": "2025-12-03T00:20:19Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "f6fe2d92a37136fb4244759b941f853ad92dfb36",
+      "short": "f6fe2d9",
+      "message": "chore(deps): update python packages (#1266)",
+      "author": "renovate[bot]",
+      "date": "2025-11-21T17:26:05Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "6a2e257e41e8241c271d0dc1a0a28e0fcda3eb82",
+      "short": "6a2e257",
+      "message": "chore(deps): update enricomi/publish-unit-test-result-action action to v2.21.0 (#1267)",
+      "author": "renovate[bot]",
+      "date": "2025-11-17T15:33:41Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "f1aa7c35ec26396e63f564c45267791a33b36137",
+      "short": "f1aa7c3",
+      "message": "chore(deps): update python packages (#1264)",
+      "author": "renovate[bot]",
+      "date": "2025-11-10T17:24:42Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "2743d772a15f95856178cd3d07b414371e3cf3fe",
+      "short": "2743d77",
+      "message": "chore(deps): update github actions (major) (#1265)",
+      "author": "renovate[bot]",
+      "date": "2025-11-10T16:02:06Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "8ec585046ca31d5a56c33f2a1b80f84d031be5a1",
+      "short": "8ec5850",
+      "message": "Remove support for Python 3.9 (#1258)",
+      "author": "Brad Keryan",
+      "date": "2025-11-04T23:52:36Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "1eea63096f4638eee77eb840adea85763c94286b",
+      "short": "1eea630",
+      "message": "chore(deps): update python packages (#1259)",
+      "author": "renovate[bot]",
+      "date": "2025-11-04T19:36:20Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "da0419f42c6426ac216143bc86ee623e6127cc7a",
+      "short": "da0419f",
+      "message": "tests: Enable system tests on Python 3.14 and fix failing generator tests (#1260)",
+      "author": "Brad Keryan",
+      "date": "2025-10-28T14:59:51Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "8be7fa62695803d7d201537bc370ce89016bd0a2",
+      "short": "8be7fa6",
+      "message": "chore(deps): update actions/cache action to v4.3.0 (#1257)",
+      "author": "renovate[bot]",
+      "date": "2025-10-13T15:14:47Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "42264e24be3b39cab530dc17cd37fba69225b5ab",
+      "short": "42264e2",
+      "message": "generator, service: Add Python 3.14 support, part 1 (#1256)",
+      "author": "Brad Keryan",
+      "date": "2025-10-10T00:27:17Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "96e07d5c8284d22d3d0104cdf88cc0d2cbf5953d",
+      "short": "96e07d5",
+      "message": "github: Remove unit_tests_succeeded step (#1255)",
+      "author": "Brad Keryan",
+      "date": "2025-10-10T00:25:36Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "9d5861795df289bc635c8ce8aab7248130d650e9",
+      "short": "9d58617",
+      "message": "Use analyze-project from ni/python-actions (#1252)",
+      "author": "Joel Dixon",
+      "date": "2025-10-09T17:18:20Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "193ecf40fa4a301e025787725ac77259ff513e64",
+      "short": "193ecf4",
+      "message": "chore(deps): update python packages (#1249)",
+      "author": "renovate[bot]",
+      "date": "2025-10-07T14:20:32Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "8d5dda4a6e0463ba1be9ff2da68d77e78e40ae42",
+      "short": "8d5dda4",
+      "message": "[Cherry pick from releases/3.0] Restore session_management module export (#1253)",
+      "author": "Joel Dixon",
+      "date": "2025-10-07T14:20:08Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "9192eab814c5bfa1f3173bb27a4693aa35c18a6d",
+      "short": "9192eab",
+      "message": "chore(deps): update ni/python-actions action to v0.7.0 (#1248)",
+      "author": "renovate[bot]",
+      "date": "2025-10-06T14:24:13Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "1c0326a74ab81ec6fea5ea422a3679d36bec1de0",
+      "short": "1c0326a",
+      "message": "chore: Bump project versions to 3.1.0.dev0 (#1247)",
+      "author": "Brad Keryan",
+      "date": "2025-10-06T14:23:24Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "87e2e158b9d98365e98599102957616e035ccc14",
+      "short": "87e2e15",
+      "message": "Add direct references to packages used in service (#1245)",
+      "author": "Joel Dixon",
+      "date": "2025-10-03T18:35:39Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "d6a4580bd1c98f6ff8ac9130536bc084e49c6ee2",
+      "short": "d6a4580",
+      "message": "[Needs Cherry pick] Depend on released versions of measurement packages (#1243)",
+      "author": "Joel Dixon",
+      "date": "2025-10-03T15:38:32Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "83d6af63d1dfaeeac9f11abd398c3e1a816cc5fd",
+      "short": "83d6af6",
+      "message": "Bump versions to 3.0.0-dev0 (#1240)",
+      "author": "Joel Dixon",
+      "date": "2025-10-01T14:43:09Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "52b24522c00617fa505af9b05eba9e35b4429e67",
+      "short": "52b2452",
+      "message": "chore(deps): update python packages (#1239)",
+      "author": "renovate[bot]",
+      "date": "2025-09-30T18:53:38Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "a6b03d408f0364ffd1d9f1831ba1901a47e74e81",
+      "short": "a6b03d4",
+      "message": "chore(deps): update ni/python-actions action to v0.6.0 (#1238)",
+      "author": "renovate[bot]",
+      "date": "2025-09-29T15:49:29Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "113f72e2125ce30609defc0976d6367656caa121",
+      "short": "113f72e",
+      "message": "github: Fix version number for example zip (#1236)",
+      "author": "Brad Keryan",
+      "date": "2025-09-22T16:21:37Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "8360e64203e3a91815ce652dc52b341e8feb748e",
+      "short": "8360e64",
+      "message": "chore(deps): update python packages (#1237)",
+      "author": "renovate[bot]",
+      "date": "2025-09-22T15:09:30Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "4a87260bc4513411f3185cd9078d57c4c7706e2a",
+      "short": "4a87260",
+      "message": "chore: Update project versions (#1234)",
+      "author": "github-actions[bot]",
+      "date": "2025-09-20T01:17:22Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "a29b6934d3d1df245041b8814c5f8954d8ff0392",
+      "short": "a29b693",
+      "message": "chore(deps): update github actions to v5 (major) (#1233)",
+      "author": "renovate[bot]",
+      "date": "2025-09-19T23:14:55Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "7f9ae07b256506e009a4f0f8565e016eb0af5a16",
+      "short": "7f9ae07",
+      "message": "chore: Update project versions (#1231)",
+      "author": "github-actions[bot]",
+      "date": "2025-09-19T22:04:41Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "e885f52f1a8a956d71a099d115f28d4d2686bf14",
+      "short": "e885f52",
+      "message": "chore(deps): update github actions (#1232)",
+      "author": "renovate[bot]",
+      "date": "2025-09-19T22:01:49Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "75a9c9cc8723a385593dcdab726f1cce2319336b",
+      "short": "75a9c9c",
+      "message": "github: Enable trusted publishing (#1230)",
+      "author": "Brad Keryan",
+      "date": "2025-09-19T20:38:32Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "3da9aed882e51531d4a259f62fc2e08ccc06248d",
+      "short": "3da9aed",
+      "message": "Add redirects for modules and classes that were moved to ni-apis-python (#1228)",
+      "author": "Joel Dixon",
+      "date": "2025-09-18T19:39:42Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "c1954e4eafac5cd27220f5aaa4b9c232ab921516",
+      "short": "c1954e4",
+      "message": "Fix tests with resource names when InstrumentStudio 2025Q3 is installed (#1225)",
+      "author": "Joel Dixon",
+      "date": "2025-09-10T14:13:45Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "5bb5a99c16bc7e93d618d570818dedbd31187767",
+      "short": "5bb5a99",
+      "message": "Consume the ni.measurementlink.pinmap.v1.client package (#1222)",
+      "author": "Joel Dixon",
+      "date": "2025-09-09T16:42:31Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "e68ab1ff525f42655ec8fe4a771b08df1b336b15",
+      "short": "e68ab1f",
+      "message": "fix(deps): update python packages (#1224)",
+      "author": "renovate[bot]",
+      "date": "2025-09-08T19:12:37Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "cacd322daac7934393e651a208d32a8490fc33df",
+      "short": "cacd322",
+      "message": "chore(deps): update github actions (#1223)",
+      "author": "renovate[bot]",
+      "date": "2025-09-08T12:19:44Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "ef7d421d4f66c2415956fb4a87a5b831eeb94962",
+      "short": "ef7d421",
+      "message": "Consume ni-apis-python packages (#1220)",
+      "author": "Joel Dixon",
+      "date": "2025-09-04T20:28:57Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "26f3b9973d61f3553046f53721ea817aad08a694",
+      "short": "26f3b99",
+      "message": "Eliminate remaining grpc stubs for ni .proto files (#1217)",
+      "author": "Joel Dixon",
+      "date": "2025-08-25T13:56:45Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "2e6e8c4ddc1a86a5dac7b275bd2c18cd231a25c7",
+      "short": "2e6e8c4",
+      "message": "Redirect old imports of ni.protobuf.types to their new location (#1218)",
+      "author": "mjohanse-emr",
+      "date": "2025-08-21T14:20:04Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "6ed06d6dfc14f78491d48b3da871d9b3e9049f8c",
+      "short": "6ed06d6",
+      "message": "Consume ni.measurementlink.discovery.v1.proto package and remove _internal.stubs for discovery (#1216)",
+      "author": "Joel Dixon",
+      "date": "2025-08-20T21:31:49Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "69f362022e1d8c36a4c95bc2a837cdd0bb795efb",
+      "short": "69f3620",
+      "message": "chore(deps): update third_party/ni-apis digest to 2dc2a19 (#1215)",
+      "author": "renovate[bot]",
+      "date": "2025-08-18T21:40:15Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "249b07ca15b2af557dfd2ff90a460c33e74f7098",
+      "short": "249b07c",
+      "message": "Promote NIMS and NIMG package version",
+      "author": "GitHub Action",
+      "date": "2025-08-15T18:03:19Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "09c7e7e22dd93632f1398969781867986cbfcc6f",
+      "short": "09c7e7e",
+      "message": "Replace ni.protobuf.types stubs with dependency on ni.protobuf.types package (#1212)",
+      "author": "mjohanse-emr",
+      "date": "2025-08-15T17:05:54Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "145381e746f0153ccc2ffdef3725304009d2342a",
+      "short": "145381e",
+      "message": "Update area path for syncing issues with AzDO (#1214)",
+      "author": "Jason Reding",
+      "date": "2025-08-15T01:22:47Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "ff872434202a05a251bb2446c4176bb82011991c",
+      "short": "ff87243",
+      "message": "service: Remove hardcoded nims references from _dotenvpath (#1213)",
+      "author": "Brad Keryan",
+      "date": "2025-08-14T17:27:47Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "37355e15e0a2875a7f575d76dcc2ce9b8ec02873",
+      "short": "37355e1",
+      "message": "chore(deps): update third_party/ni-apis digest to 464698d (#1211)",
+      "author": "renovate[bot]",
+      "date": "2025-08-11T16:07:01Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "1972d04ba4b2b5a9a5bd3972a1d8b3ad1623f162",
+      "short": "1972d04",
+      "message": "chore(deps): lock file maintenance (#1210)",
+      "author": "renovate[bot]",
+      "date": "2025-08-01T14:15:49Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "b74c06779ebbbe10546416f5d3d2574e3bb54583",
+      "short": "b74c067",
+      "message": "github: Use shared Renovate config (#1209)",
+      "author": "Brad Keryan",
+      "date": "2025-07-31T19:45:24Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "7a6a63df14b6da1c4318c149fb3780d349cbc507",
+      "short": "7a6a63d",
+      "message": "fix(deps): update python packages (major) (#1208)",
+      "author": "renovate[bot]",
+      "date": "2025-07-28T15:30:25Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "ed1fa258dacdfe39a7fb6be9b809f047d0b53adf",
+      "short": "ed1fa25",
+      "message": "fix(deps): update python packages (#1207)",
+      "author": "renovate[bot]",
+      "date": "2025-07-28T15:29:54Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "c23b11dd729e7822a2bebefec6f885c3027cf374",
+      "short": "c23b11d",
+      "message": "tests: Fix race condition in client cancellation tests (#1206)",
+      "author": "Brad Keryan",
+      "date": "2025-07-23T18:05:56Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "556c35a0f80465862188dcbf7a0cce499950c361",
+      "short": "556c35a",
+      "message": "fix(deps): Enable testing with latest click (#1204)",
+      "author": "Brad Keryan",
+      "date": "2025-07-23T00:11:04Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "d8044096a11d51373f72a51c0f4f2ca00f0e0fdd",
+      "short": "d804409",
+      "message": "chore(deps): lock file maintenance (#1205)",
+      "author": "renovate[bot]",
+      "date": "2025-07-22T19:29:12Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "c3cbfc9ad7dce5aed5867c74702d1b3d067bfa62",
+      "short": "c3cbfc9",
+      "message": "fix(deps): update python packages (#1203)",
+      "author": "renovate[bot]",
+      "date": "2025-07-21T16:38:35Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "904b3b4a9049b1a050106be905d071009a074a64",
+      "short": "904b3b4",
+      "message": "fix(deps): update python packages (major) (#1202)",
+      "author": "renovate[bot]",
+      "date": "2025-07-19T13:31:00Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "23c07cfa49c3a1504fd235b8ae0a8f73ea221837",
+      "short": "23c07cf",
+      "message": "fix(deps): Update mypy to 1.17.0 (#1201)",
+      "author": "Brad Keryan",
+      "date": "2025-07-18T18:27:26Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "7b79700d74732142a0ede53597b5724b39b8e3a3",
+      "short": "7b79700",
+      "message": "chore(deps): update third_party/ni-apis digest to 6d4837b (#1199)",
+      "author": "renovate[bot]",
+      "date": "2025-07-16T21:01:24Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "9214353034d82a510d68fd20b1952567743cf41e",
+      "short": "9214353",
+      "message": "fix(deps): update python packages (#1198)",
+      "author": "renovate[bot]",
+      "date": "2025-07-16T00:21:44Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "87eb82f43ab917998cf8635e7dccc96a2130ea7a",
+      "short": "87eb82f",
+      "message": "feat: Add support for Measurement Remote Execution by populating deployment_target (#1194)",
+      "author": "divakar-selvam07",
+      "date": "2025-07-14T18:50:36Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "3d23777d342510dc88d852890bcb45da04176253",
+      "short": "3d23777",
+      "message": "fix(deps): update python packages (#1196)",
+      "author": "renovate[bot]",
+      "date": "2025-07-09T20:32:53Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "4e3fdc9505339fe6236bbef6204dbb2f4792d49d",
+      "short": "4e3fdc9",
+      "message": "chore(deps): update ni/python-actions action to v0.4.1 (#1195)",
+      "author": "renovate[bot]",
+      "date": "2025-07-07T14:00:18Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "d7cf7a724bb24984b9c66f82c6ded8b090760ef8",
+      "short": "d7cf7a7",
+      "message": "chore(deps): update third_party/ni-apis digest to 5f2a800 (#1197)",
+      "author": "renovate[bot]",
+      "date": "2025-07-07T12:35:08Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "f9992f8c1d34d118517b7d024ea7a55cfc029e75",
+      "short": "f9992f8",
+      "message": "chore(deps): lock file maintenance (#1181)",
+      "author": "renovate[bot]",
+      "date": "2025-07-01T17:01:16Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "934446c8c139ad9bead46d57e0930f1e95d9024b",
+      "short": "934446c",
+      "message": "Post publish workflow to update main after 2.3.1 release (#1193)",
+      "author": "Avi Goel",
+      "date": "2025-07-01T15:52:44Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "84b31ca1cfb2474d0008122e2c3f86264a050fb3",
+      "short": "84b31ca",
+      "message": "chore(deps): update github actions (#1190)",
+      "author": "renovate[bot]",
+      "date": "2025-06-30T14:20:56Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "6babbb3295f873bb1dd5ac83952b81ab1cab61c0",
+      "short": "6babbb3",
+      "message": "fix(deps): update python packages (#1191)",
+      "author": "renovate[bot]",
+      "date": "2025-06-30T14:20:15Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "acfee1b4d3635758a4e0b49a34d79694c30cd2a8",
+      "short": "acfee1b",
+      "message": "chore(deps): update third_party/ni-apis digest to 18769cd (#1192)",
+      "author": "renovate[bot]",
+      "date": "2025-06-30T10:28:36Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "7881a80e89ec37b9e7d8dfe48decef112249747e",
+      "short": "7881a80",
+      "message": "github: Fix github-actions package rules (#1189)",
+      "author": "Brad Keryan",
+      "date": "2025-06-25T16:29:12Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "3d0e105c45f9cec74cb8c639c9e162fce62a509f",
+      "short": "3d0e105",
+      "message": "github: Reconfigure Renovate to group updates (#1187)",
+      "author": "Brad Keryan",
+      "date": "2025-06-24T18:08:52Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "24d68ba8ea7d7e30e4f5d5e9049b76dd20798d1d",
+      "short": "24d68ba",
+      "message": "chore(deps): update third_party/ni-apis digest to 4025330 (#1180)",
+      "author": "renovate[bot]",
+      "date": "2025-06-23T15:10:31Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "d5d6f0b1131cb1c8186cddf58bf2823b18b6161e",
+      "short": "d5d6f0b",
+      "message": "chore(deps): update ni/python-actions action to v0.3.1 (#1179)",
+      "author": "renovate[bot]",
+      "date": "2025-06-19T01:38:30Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "8bc80ed0fcf1df077696bbb3ce2f7e1a52548315",
+      "short": "8bc80ed",
+      "message": "chore(deps): update dependency pytest to v8.4.1 (#1178)",
+      "author": "renovate[bot]",
+      "date": "2025-06-18T16:58:08Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "023f80643d92c0afba2da4e54e02415be93183de",
+      "short": "023f806",
+      "message": "chore(deps): update dependency mypy to v1.16.1 (#1175)",
+      "author": "renovate[bot]",
+      "date": "2025-06-18T14:39:27Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "7e1bda1365e4c66e8fb2de273b5f65c691ca2c31",
+      "short": "7e1bda1",
+      "message": "chore(deps): update dependency bandit to v1.8.5 (#1176)",
+      "author": "renovate[bot]",
+      "date": "2025-06-18T02:56:38Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "ccc67ed1ed7a6c082ba71ff662c6b34be9c54319",
+      "short": "ccc67ed",
+      "message": "chore(deps): update dependency tox to v4.27.0 (#1177)",
+      "author": "renovate[bot]",
+      "date": "2025-06-17T22:14:15Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "0bf16d3bc8f13da7947a307b99c14e4d4455784e",
+      "short": "0bf16d3",
+      "message": "chore(deps): update third_party/ni-apis digest to 93cbc66 (#1173)",
+      "author": "renovate[bot]",
+      "date": "2025-06-17T17:44:31Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "22cb41f30aa173a7a7f45b20c49dc714e1dd3364",
+      "short": "22cb41f",
+      "message": "chore(deps): update dependency pytest-cov to v6.2.1 (#1171)",
+      "author": "renovate[bot]",
+      "date": "2025-06-13T13:31:21Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "48da8ff38c33d2594caf8e50a6b403c8602bad5e",
+      "short": "48da8ff",
+      "message": "chore(deps): update ni/python-actions action to v0.3.0 (#1170)",
+      "author": "renovate[bot]",
+      "date": "2025-06-09T21:06:53Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "bfebe810bca912cd0baf7e788a0b75dc0e3ee017",
+      "short": "bfebe81",
+      "message": "fix(deps): update dependency grpcio to v1.73.0 (#1169)",
+      "author": "renovate[bot]",
+      "date": "2025-06-09T13:46:13Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "46f86b53305573b2167ee0eb0c01c3c5924deab4",
+      "short": "46f86b5",
+      "message": "chore(deps): lock file maintenance (#1168)",
+      "author": "renovate[bot]",
+      "date": "2025-06-09T13:42:07Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "ba670cb9a1d8f376719751c4d1ad7574ee544ae2",
+      "short": "ba670cb",
+      "message": "chore(deps): update third_party/ni-apis digest to 0ded75d (#1167)",
+      "author": "renovate[bot]",
+      "date": "2025-06-09T13:41:40Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "0b961f446795fe31ce3af949c14511c7439c463a",
+      "short": "0b961f4",
+      "message": "Add String2DArray Output Support in Measurement packages and update relevant tests (#1064)",
+      "author": "Avi",
+      "date": "2025-02-07T12:34:42Z",
+      "project": true,
+      "dep_only": false
+    },
+    {
+      "sha": "d8f5f6092d1ae7699d498f64dbffd51ec97f266c",
+      "short": "d8f5f60",
+      "message": "Adding Double2DArray Graph output in measui and LV UI (#1037)",
+      "author": "Avi",
+      "date": "2024-12-19T16:24:52Z",
+      "project": true,
+      "dep_only": false
+    },
+    {
+      "sha": "cc3c8fa6cf6406d8b409fef5735196f7e94c7bb8",
+      "short": "cc3c8fa",
+      "message": "Use NXG/fuse controls for LabVIEW measurement UIs (#272)",
+      "author": "pbirkhol-ni",
+      "date": "2023-05-19T13:55:01Z",
+      "project": true,
+      "dep_only": false
+    },
+    {
+      "sha": "2a19c75d65bb45b10d2c38018a3fb8893a8c52d4",
+      "short": "2a19c75",
+      "message": "Combine DC Power examples into one that has a .measui and a .vi (#214)",
+      "author": "Joel Dixon",
+      "date": "2023-01-20T22:26:44Z",
+      "project": true,
+      "dep_only": false
+    },
+    {
+      "sha": "b78b757226cc57630a36351e9c998ffdd0ae7822",
+      "short": "b78b757",
+      "message": "nidcpower examples: Source/measure the DC voltage on all selected pins (and no others) (#188)",
+      "author": "Brad Keryan",
+      "date": "2023-01-09T18:24:05Z",
+      "project": true,
+      "dep_only": false
+    },
+    {
+      "sha": "8fd2066a104bc59f216b4d82f54748ddab18200a",
+      "short": "8fd2066",
+      "message": "fix binding issues in labview example (#164)",
+      "author": "subash.suresh",
+      "date": "2022-12-09T14:02:08Z",
+      "project": true,
+      "dep_only": false
+    },
+    {
+      "sha": "741d86f81dfec41b83dd435a5203c3cc472ffbbb",
+      "short": "741d86f",
+      "message": "Updated the dcpower LabVIEW example to have pinarray (#156)",
+      "author": "subash.suresh",
+      "date": "2022-12-08T21:03:56Z",
+      "project": true,
+      "dep_only": false
+    },
+    {
+      "sha": "6b0723a1a04303601c2d266538cac785e9d1f1e4",
+      "short": "6b0723a",
+      "message": "Add SampleMeasurement.vi with string array control and update the sample measurement with string array parameter (#136)",
+      "author": "Vasantha-Kumar-J",
+      "date": "2022-12-02T16:03:55Z",
+      "project": true,
+      "dep_only": false
+    },
+    {
+      "sha": "ef6de42e78d48c2caf224058fb6293ff0a4bb6a3",
+      "short": "ef6de42",
+      "message": "Overhaul NI-DCPower examples (#132)",
+      "author": "Brad Keryan",
+      "date": "2022-11-30T21:58:08Z",
+      "project": true,
+      "dep_only": false
+    },
+    {
+      "sha": "c5c881f4fdc19dc11428a37cf65f43863fff1c4d",
+      "short": "c5c881f",
+      "message": "Fix start.bat in ni-measurement-generator. Fix LV UI file for one of the examples. (#97)",
+      "author": "Joel Dixon",
+      "date": "2022-09-30T16:57:28Z",
+      "project": true,
+      "dep_only": false
+    },
+    {
+      "sha": "422509ee1e7c77dfdf92e9db597880740a637a62",
+      "short": "422509e",
+      "message": "Add python measurement examples (#34)",
+      "author": "subash.suresh",
+      "date": "2022-03-25T12:37:24Z",
+      "project": true,
+      "dep_only": false
+    }
+  ],
+  "config": {
+    "use": "",
+    "actions": {},
+    "vipc": [],
+    "dragon": [],
+    "hasVipcList": false,
+    "hasDragonList": false
+  },
+  "vipc": [
+    {
+      "path": ".github/labview/vipm/ci-tooling.vipc",
+      "role": "core",
+      "capability": "",
+      "tooling": true,
+      "configured": true,
+      "monitored": true,
+      "monitorOn": [
+        "windows",
+        "linux"
+      ],
+      "locked": true,
+      "packages": [
+        "astemes_lib_lunit-2.0.13.6",
+        "astemes_lib_lunit_cli-1.6.1.23",
+        "astemes_lib_lunit_coverage_analysis_add_on-1.0.0.2",
+        "astemes_lib_lunit_global_fixture_add_on-1.0.5.4",
+        "astemes_lib_lunit_parameterized_add_on-1.1.10.8",
+        "astemes_lib_lunit_test_inheritance_add_on-1.0.5.4",
+        "dataflow_g_lib_g_image-0.5.0.1",
+        "felipefoz_lib_lv_rainbow_terminal-1.1.1.5",
+        "jki_lib_caraya-1.4.4.148",
+        "jki_lib_state_machine-2024.0.3.23",
+        "jki_rsc_toolkits_palette-1.1-1",
+        "labview_open_source_lib_epoch_datetime-1.3.0.8",
+        "labview_open_source_project_lib_labview_open_source_palette-1.0.2.7",
+        "labview_open_source_project_lib_openuri-1.4.0.13",
+        "lvos_lib_caraya_cli_extension-2.0.0.7",
+        "ni_lib_junit_results_api-1.0.1.6",
+        "ni_lib_simple_xml-1.0.0.4",
+        "ni_lib_utf_junit_report-1.0.1.43",
+        "oglib_array-6.0.1.20",
+        "oglib_error-6.0.0.26",
+        "oglib_file-6.0.2.28",
+        "oglib_lvdata-6.0.0.45",
+        "oglib_string-6.0.2.35",
+        "pnr_lib_caraya_junit_for_azure_pipelines-1.2.0.11",
+        "pnr_lib_junit_xml-1.0.0.4",
+        "sas_workshops_lib_lunit_for_g_cli-1.2.1.85",
+        "wiresmith_technology_lib_g_cli-3.0.1.98"
+      ],
+      "error": ""
+    }
+  ],
+  "nipm": [
+    {
+      "name": "LabVIEW",
+      "source": "NI Package Manager",
+      "labview": true,
+      "platforms": [
+        "windows",
+        "linux"
+      ],
+      "details": "LabVIEW runtime and development packages from the NI feeds."
+    },
+    {
+      "name": "VI Analyzer support",
+      "source": "NI Package Manager",
+      "packages": {
+        "windows": [
+          "ni-viawin-labview-support"
+        ],
+        "linux": [
+          "ni-vialin-labview-support"
+        ]
+      },
+      "platforms": [
+        "windows",
+        "linux"
+      ],
+      "details": "NI VI Analyzer support package used by the analyzer runners."
+    },
+    {
+      "name": "NI Unit Test Framework",
+      "source": "NI Package Manager",
+      "packages": {
+        "windows": [
+          "ni-utf-labview-support"
+        ]
+      },
+      "platforms": [
+        "windows"
+      ],
+      "details": "NI UTF support package used by the Windows unit-test runner."
+    },
+    {
+      "name": "JKI Dragon",
+      "source": "NI Package Manager",
+      "packages": {
+        "windows": [
+          "jki-dragon"
+        ]
+      },
+      "platforms": [
+        "windows"
+      ],
+      "details": "JKI Dragon dependency-management tooling installed from the LabVIEW 2026 NI Package Manager feed."
+    },
+    {
+      "name": "VI Package Manager",
+      "source": "NI Package Manager",
+      "packages": {
+        "windows": [
+          "ni-vipm"
+        ]
+      },
+      "platforms": [
+        "windows"
+      ],
+      "details": "NI-published Windows VIPM package that enables VIPC application during worker builds. Linux installs VIPM from the native Debian package during its worker build."
+    }
+  ],
+  "dragon": {
+    "available": false,
+    "column": "windows",
+    "ready": false,
+    "health": "",
+    "manifest_version": "",
+    "files": [],
+    "install_set": [],
+    "conflicts": []
+  },
+  "system": [
+    {
+      "name": "VI Browser 2.0 toimages runner",
+      "source": "Repository Go code",
+      "path": ".github/labview/toimages/main.go",
+      "details": "Batch runner compiled from repo Go source; Linux uses the toimages GHCR image and Windows builds runner.exe in the workflow.",
+      "platforms": {
+        "windows": {
+          "present": true,
+          "label": "workflow-built"
+        },
+        "linux": {
+          "present": true,
+          "label": "toimages image"
+        }
+      }
+    },
+    {
+      "name": "lvctl render engine",
+      "source": "Repository Go code + embedded VIs",
+      "path": ".github/labview/toimages/_ni/labview/lvctl",
+      "details": "Renderer used by VI Browser 2.0 to drive LabVIEW and emit position-aware frame JSON.",
+      "platforms": {
+        "windows": {
+          "present": true,
+          "label": "workflow-built"
+        },
+        "linux": {
+          "present": true,
+          "label": "toimages image"
+        }
+      }
+    }
+  ],
+  "columns": [
+    {
+      "key": "windows",
+      "label": "Windows",
+      "platform": "windows",
+      "defaultTag": "latest",
+      "tag": "latest",
+      "ready": true,
+      "packages": [
+        "astemes_lib_lunit-2.0.13.6",
+        "astemes_lib_lunit_cli-1.6.1.23",
+        "astemes_lib_lunit_coverage_analysis_add_on-1.0.0.2",
+        "astemes_lib_lunit_global_fixture_add_on-1.0.5.4",
+        "astemes_lib_lunit_parameterized_add_on-1.1.10.8",
+        "astemes_lib_lunit_test_inheritance_add_on-1.0.5.4",
+        "dataflow_g_lib_g_image-0.5.0.1",
+        "felipefoz_lib_lv_rainbow_terminal-1.1.1.5",
+        "jki_lib_caraya-1.4.4.148",
+        "jki_lib_state_machine-2024.0.3.23",
+        "jki_rsc_toolkits_palette-1.1-1",
+        "labview_open_source_lib_epoch_datetime-1.3.0.8",
+        "labview_open_source_project_lib_labview_open_source_palette-1.0.2.7",
+        "labview_open_source_project_lib_openuri-1.4.0.13",
+        "lvos_lib_caraya_cli_extension-2.0.0.7",
+        "ni_lib_junit_results_api-1.0.1.6",
+        "ni_lib_simple_xml-1.0.0.4",
+        "ni_lib_utf_junit_report-1.0.1.43",
+        "oglib_array-6.0.1.20",
+        "oglib_error-6.0.0.26",
+        "oglib_file-6.0.2.28",
+        "oglib_lvdata-6.0.0.45",
+        "oglib_string-6.0.2.35",
+        "pnr_lib_caraya_junit_for_azure_pipelines-1.2.0.11",
+        "pnr_lib_junit_xml-1.0.0.4",
+        "sas_workshops_lib_lunit_for_g_cli-1.2.1.85",
+        "wiresmith_technology_lib_g_cli-3.0.1.98"
+      ],
+      "failed_packages": [],
+      "nipkg_ready": true,
+      "nipkg_packages": [],
+      "labview_version": "2026",
+      "version": "win-0ea14bbc82b0"
+    },
+    {
+      "key": "linux",
+      "label": "Linux",
+      "platform": "linux",
+      "defaultTag": "latest",
+      "tag": "latest",
+      "ready": true,
+      "packages": [],
+      "failed_packages": [],
+      "nipkg_ready": true,
+      "nipkg_packages": [],
+      "labview_version": "2026",
+      "version": "linux-4ce478ba9bb6"
+    }
+  ]
+}
